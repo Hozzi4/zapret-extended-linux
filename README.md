@@ -31,8 +31,8 @@ Ubuntu 24.04 • Debian 12 • Arch Linux • Gentoo Linux
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/Sergeydigl3/zapret-discord-youtube-linux.git
-cd zapret-discord-youtube-linux
+git clone https://github.com/Hozzi4/zapret-extended-linux
+cd zapret-extended-linux
 
 ./service.sh download-deps --default
 ./service.sh
